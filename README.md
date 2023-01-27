@@ -1,7 +1,7 @@
 # Banksystem
 OS homework
 
-初学rust时攒起来的伤心大作业
+22年6月初学rust时攒起来的伤心大作业
 
 需求是银行系统，给定存储了账号和对应余额的csv文件
 
